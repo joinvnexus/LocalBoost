@@ -14,6 +14,11 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] ESLint configuration
 - [x] Memory bank documentation
 - [x] Recipe system for common features
+- [x] Database integration with Drizzle ORM and SQLite
+- [x] Added password field to users table for authentication
+- [x] Authentication system with login and signup pages
+- [x] Auth API routes for login and signup
+- [x] UI components (Button, Input) for auth forms
 
 ## Current Structure
 
