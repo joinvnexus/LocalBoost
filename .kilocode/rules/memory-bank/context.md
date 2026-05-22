@@ -20,6 +20,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Auth API routes for login and signup
 - [x] UI components (Button, Input) for auth forms
 - [x] Users API route (GET) to fetch user(s)
+- [x] Updated home page with welcome message and navigation links
 - [x] Authentication system with login and signup pages
 - [x] Auth API routes for login and signup
 - [x] UI components (Button, Input) for auth forms
